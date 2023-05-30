@@ -1,0 +1,168 @@
+/* Estilos para la clase 'logo' */
+.logo {
+    width: 10px; /* Ajusta el ancho según sea necesario */
+    height: auto; /* Ajusta la altura automáticamente */
+  }
+  
+  /* Estilos para la clase 'header-sitio' */
+  .header-sitio {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+  }
+  
+  /* Estilos para la clase 'container' */
+  .container {
+    max-width: 1200px; /* Ajusta el ancho máximo según sea necesario */
+    margin: 0 auto;
+    padding: 0 20px;
+  }
+  
+  /* Estilos para los enlaces del menú */
+  #nav a {
+    color: #fff;
+    margin-right: 10px;
+    text-decoration: none;
+  }
+  
+  /* Estilos para el banner de inicio */
+  .banner-inicio {
+    background-color: #f1f1f1;
+    padding: 40px;
+    text-align: center;
+  }
+  
+  .banner-inicio h1 {
+    font-size: 32px;
+    margin-bottom: 10px;
+  }
+  
+  .banner-inicio h2 {
+    font-size: 24px;
+    margin-bottom: 0;
+  }
+  
+  /* Estilos para los títulos h2 */
+  .t-h2 {
+    margin-top: 40px;
+    margin-bottom: 20px;
+  }
+  
+  /* Estilos para el contenido de índice */
+  .index-content {
+    margin-bottom: 40px;
+  }
+  
+  /* Estilos para el banner de artículos */
+  .banner-articulos {
+    background-color: #f1f1f1;
+    padding: 40px;
+  }
+  
+  /* Estilos para los artículos de slogan */
+  .slogan {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .slogan h3 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .slogan p {
+    font-size: 16px;
+    margin-bottom: 0;
+  }
+  
+  /* Estilos para la sección de servicios de inicio */
+  .servicios-inicio {
+    background-color: #fff;
+    padding: 40px;
+    margin-bottom: 40px;
+  }
+  
+  .servicios-inicio h2 {
+    margin-top: 0;
+    margin-bottom: 20px;
+  }
+  
+  /* Estilos para los artículos de servicios */
+  .fotosServicios article {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .fotosServicios img {
+    width: 200px; /* Ajusta el ancho según sea necesario */
+    height: auto; /* Ajusta la altura automáticamente */
+    margin-bottom: 10px;
+  }
+  
+  .fotosServicios h3 {
+    font-size: 18px;
+    margin-bottom: 0;
+  }
+  
+  /* Estilos para la sección de aside */
+  aside {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 40px;
+  }
+  
+  aside section {
+    width: 30%; /* Ajusta el ancho según sea necesario */
+    text-align: center;
+  }
+  
+  aside section h3 {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  
+  /* Estilos para el ícono de WhatsApp */
+  .wsp-aside {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .wsp-aside i {
+    margin-right: 5px;
+  }
+  
+  /* Estilos para el footer */
+  .pie {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .pie p {
+    margin-top: 10px;
+    margin-bottom: 0;
+  }
+  
+  /* Estilos para los íconos de redes sociales en el footer */
+  .footer-redes {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .footer-redes li {
+    margin: 0 5px;
+    cursor: pointer;
+  }
+  
+  .footer-redes li i {
+    font-size: 24px;
+  }
+  
+  
